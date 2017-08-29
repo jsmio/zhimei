@@ -1,6 +1,4 @@
 /* CSS Document */
-
-@charset "utf-8";
 /**
  * Theme Name: meizhi美志
  * Theme URI:  
@@ -12,3 +10,7 @@
  * Author URI: http://www.zszan.com
  */
 
+.breadcrumb-box .am-container li a {
+    font-size: 14px;
+    color: #262626;
+}

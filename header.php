@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/contact.min.css" />
   <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/other.min.css" />
   <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/news.min.css" />
+  <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/solution.min.css" />
   <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/style.css" />
 </head>
 <body>

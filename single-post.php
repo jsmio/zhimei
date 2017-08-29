@@ -6,14 +6,17 @@
           <h1 class="page-header-title">News</h1>
         </div>
       </div>
-
       <div class="breadcrumb-box">
-        <div class="am-container">
-          <ol class="am-breadcrumb">
-            <li><a href="../index.html">首页</a></li>
-            <li class="am-active">News</li>
-          </ol>
-        </div>
+			<?php 
+			if (( is_home() || is_front_page() ) ){
+			}
+			else
+			{
+			echo "<div class=\"am-container\">\n";
+			if(function_exists('cmp_breadcrumbs')) cmp_breadcrumbs();
+			echo "</div>\n";
+			}	
+			?>            
       </div>
     </div>
 
@@ -30,6 +33,7 @@
                 <li class="article--meta_item"><i class="am-icon-calendar"></i><?php the_time('Y-m-d G:H'); ?></li>
                 <li class="article--meta_item"><i class="am-icon-user"></i>by张三</li>
                 <li class="article--meta_item"><i class="am-icon-commenting-o"></i>33评论</li>
+                <li class="article--meta_item"><i class="am-icon-qq"></i>33评论</li>
               </ul>
             </header>     
             <div class="article--content">
