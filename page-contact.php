@@ -3,10 +3,12 @@
    <div class="section">
       <div class="container">
         <div class="section--header">
-					<h2 class="section--title">Get In Touch!</h2>
+					<h2 class="section--title">任何相关需求</h2>
 					<p class="section--description">
-            云适配致力于为企业提供全球最先进的移动化技术帮助企业最高效安全实现生产力提升<br/>
-              One Web，Any Device
+            我们非常感谢您对志美的关注，并希望给您带来更好的服务和体验。
+			我们团队成员将在最短时间内回复您的咨询。
+			请随时通过以下任一方式与我们联系。<br/>
+              所有型号，所有功率
 					</p>
 				</div>
 
@@ -18,17 +20,17 @@
                 <li class="contact-box-item">
                   <div class="contact_item">
 										<i class="contact_item--icon am-icon-phone"></i>
-										<h3 class="contact_item--title">Call Us</h3>
+										<h3 class="contact_item--title">任何需求请拨打</h3>
 										<p class="contact_item--text">
-											联系电话： <strong>400-069-0309</strong>,
-											<br> Monday - Friday, 8am - 7pm
+											联系电话： <strong>0514-55555555</strong>,
+											<br> 周一 至 周日, 上午 8：00 - 下午 9:00
 										</p>
 									</div>
                 </li>
                 <li class="contact-item">
                   <div class="contact_item">
 										<i class="contact_item--icon am-icon-envelope-o"></i>
-										<h3 class="contact_item--title">Drop a Line</h3>
+										<h3 class="contact_item--title">说不清的可以发邮件</h3>
 										<p class="contact_item--text">
                       service@yunshipei.com, <br/>期待您的来信...
 										</p>
@@ -37,9 +39,9 @@
                 <li class="contact-item">
                   <div class="contact_item">
 										<i class="contact_item--icon am-icon-map-marker"></i>
-										<h3 class="contact_item--title">Visit Us</h3>
+										<h3 class="contact_item--title">欢迎来我公司考察</h3>
 										<p class="contact_item--text">
-											北京市海淀区海淀大街27号天使大厦（原亿景大厦）三层西侧
+											扬州市江都区城北工业园区沪江路8号
 										</p>
 									</div>
                 </li>
@@ -50,7 +52,7 @@
             <!--contact-right start-->
               <div class="am-u-md-7">
                 <div class="contact-form">
-                  <h3 class="contact-form_title">Your Request</h3>
+                  <h3 class="contact-form_title">你的需求</h3>
                   <form class="am-form">
                     <div class="am-g">
                       <div class="am-u-md-6">
@@ -115,7 +117,7 @@
           <div class="am-u-md-4">
             <div class="contact_card">
 							<i style="color:#59bcdb" class="contact_card--icon am-icon-phone"></i>
-							<strong class="contact_card--title">Contact Us</strong>
+							<strong class="contact_card--title">电话联系我们</strong>
 							<p class="contact_card--text">Feel free to call us on <br> <strong>0 (855) 233-5385</strong> <br> Monday - Friday, 8am - 7pm</p>
               <button type="button" class="am-btn am-btn-secondary">Order a Call Back</button>
 						</div>
@@ -123,7 +125,7 @@
           <div class="am-u-md-4">
             <div class="contact_card">
 							<i style="color:#59bcdb" class="contact_card--icon am-icon-envelope-o"></i>
-							<strong class="contact_card--title">Our Email</strong>
+							<strong class="contact_card--title">我们的邮箱</strong>
 							<p class="contact_card--text">Drop us a line anytime at <br> <strong><a href="mailto:info@financed.com">info@financed.com</a>,</strong> <br> and we’ll get back soon.</p>
               <button type="button" class="am-btn am-btn-secondary">Start Writing</button>
 						</div>
@@ -131,7 +133,7 @@
           <div class="am-u-md-4">
             <div class="contact_card">
 							<i style="color:#59bcdb" class="contact_card--icon am-icon-map-marker"></i>
-							<strong class="contact_card--title">Our Address</strong>
+							<strong class="contact_card--title">我们的地址</strong>
 							<p class="contact_card--text">Come visit us at <br> <strong>Stock Building, New York,</strong> <br> NY 93459</p>
               <button type="button" class="am-btn am-btn-secondary">See the Map</button>
 						</div>

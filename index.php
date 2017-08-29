@@ -150,36 +150,36 @@
           <div class="am-g">
             <div class="am-u-md-3">
               <div class="features_item">
-								<img src="<?php echo get_template_directory_uri(); ?>/assets/images/index/f01.jpg" alt="">
-								<h3 class="features_item--title">全自动发电机组</h3>
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/images/index/静音电站.png" alt="静音电站-扬州志美发电机制造有限公司">
+								<h3 class="features_item--title">静音电站</h3>
 								<p class="features_item--text">
-									音发电机组箱体为整体折弯结构。结构牢固，降噪效果超同行10%。箱体内部为一体化三层阻隔技术以及多腔扩张式抗性消音技术，更好的降低发电机发出的高低频噪声，15m以外噪音低于75dB。经过动力测试，强辉优化了进风系统，机组运行更加顺畅。箱体外部进行强抗腐蚀强化，内部进行高效防锈处理。并可无需建造机房露天使用。箱体的两侧及操控侧均设有开启门，供安装、观察、推护、操作使用。箱体外部设有加油口。箱体底部设置日用油箱，可满足发电机组8小时的用油量
+									音发电机组箱体为整体折弯结构。结构牢固，降噪效果超同行10%。箱体内部为一体化三层阻隔技术以及多腔扩张式抗性消音技术，更好的降低发电机发出的高低频噪声。
 								</p>
 							</div>
             </div>
             <div class="am-u-md-3">
               <div class="features_item">
-								<img src="<?php echo get_template_directory_uri(); ?>/assets/images/index/f02.jpg" alt="">
-								<h3 class="features_item--title">丰富移动组件库</h3>
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/images/index/静音电站.png" alt="">
+								<h3 class="features_item--title">静音电站</h3>
 								<p class="features_item--text">
-									Enterplorer Studio内置丰富的移动组件，大大提升了开发效率。
+									音发电机组箱体为整体折弯结构。结构牢固，降噪效果超同行10%。箱体内部为一体化三层阻隔技术以及多腔扩张式抗性消音技术，更好的降低发电机发出的高低频噪声。
 								</p>
 							</div>
             </div>
             <div class="am-u-md-3">
               <div class="features_item">
-								<img src="<?php echo get_template_directory_uri(); ?>/assets/images/index/f03.jpg" alt="">
-								<h3 class="features_item--title">可视化界面设计</h3>
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/images/index/静音电站.png" alt="">
+								<h3 class="features_item--title">静音电站</h3>
 								<p class="features_item--text">
-									整个适配过程可视化，集成手机模拟器，可以快速的开发调试。
+									音发电机组箱体为整体折弯结构。结构牢固，降噪效果超同行10%。箱体内部为一体化三层阻隔技术以及多腔扩张式抗性消音技术，更好的降低发电机发出的高低频噪声。
 							</div>
             </div>
             <div class="am-u-md-3">
               <div class="features_item">
-								<img src="<?php echo get_template_directory_uri(); ?>/assets/images/index/f04.jpg" alt="">
-								<h3 class="features_item--title">零秒部署</h3>
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/images/index/静音电站.png" alt="">
+								<h3 class="features_item--title">静音电站</h3>
 								<p class="features_item--text">
-									无需部署，实时上传实时呈现，复用现有系统流程及数据
+									音发电机组箱体为整体折弯结构。结构牢固，降噪效果超同行10%。箱体内部为一体化三层阻隔技术以及多腔扩张式抗性消音技术，更好的降低发电机发出的高低频噪声。
 								</p>
 							</div>
             </div>

@@ -9,6 +9,8 @@
   <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/common.min.css" />
   <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/index.min.css" />
   <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/contact.min.css" />
+  <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/other.min.css" />
+  <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/news.min.css" />
   <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/style.css" />
 </head>
 <body>
@@ -124,7 +126,8 @@
 			);
 			wp_nav_menu( $defaults );
 			?>			
-<?php /*?>             <li class=""><a href="./index.html">首页</a></li>
+<?php /*?>             
+			<li class=""><a href="./index.html">首页</a></li>
               <li>
                 <a href="#">产品中心</a>
                 <!-- sub-menu start-->
@@ -166,8 +169,7 @@
             <div class="am-offcanvas" >
               <div class="am-offcanvas-bar">
               <ul class="am-menu-nav am-avg-sm-1">
-				<?php wp_nav_menu( $args ); ?>                  
-                 <li><a href="./index.html" class="" >首页</a></li>
+                 <li><a href="index.php" class="" >首页</a></li>
                   <li class="am-parent">
                     <a href="#" class="" >产品中心</a>
                       <ul class="am-menu-sub am-collapse ">
@@ -200,7 +202,7 @@
                   </li>
                   <li class=""><a href="html/about.html" class="" >关于我们</a></li>
                   <li class=""><a href="html/join.html" class="" >加入我们</a></li>
-                  <li class=""><a href="html/contact.html" class="" >联系我们</a></li>
+                  <li class=""><a href="/contact" class="" >联系我们</a></li>
                   <li class="am-parent">
                     <a href="" class="nav-icon nav-icon-globe" >Language</a>
                       <ul class="am-menu-sub am-collapse  ">
