@@ -158,7 +158,7 @@
     </div>
 
     <!--mobile header start-->
-    <div class="m-header">
+  <div class="m-header">
       <div class="am-g am-show-sm-only">
         <div class="am-u-sm-2">
           <div class="menu-bars">
@@ -244,4 +244,4 @@
         </div>
       </div>
     <!--mobile header end-->
-    </div>
+</div>
