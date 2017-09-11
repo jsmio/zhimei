@@ -63,10 +63,9 @@
       </div>
     </div>
   </div>
-<!--  <script src="<?php echo get_template_directory_uri(); ?>/assets/js/jquery-2.1.0.js" charset="utf-8"></script>-->
+  <script src="<?php echo get_template_directory_uri(); ?>/assets/js/jquery-2.1.0.js" charset="utf-8"></script>
   <script src="<?php echo get_template_directory_uri(); ?>/assets/js/amazeui.js" charset="utf-8"></script>
   <script src="<?php echo get_template_directory_uri(); ?>/assets/js/common.js" charset="utf-8"></script>
-   <?php wp_footer(); ?> 
 </body>
 
 </html>
