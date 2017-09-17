@@ -99,4 +99,38 @@ function cmp_breadcrumbs() {
 	}
 }
 
+
+function zhimei_widgets_init() {
+	register_sidebar( array(
+		'name'          => __( 'Blog Sidebar', 'zhimei' ),
+		'id'            => 'sidebar-1',
+		'description'   => __( 'Add widgets here to appear in your sidebar on blog posts and archive pages.', 'zhimei' ),
+		'before_widget' => '<section id="%1$s" class="widget %2$s">',
+		'after_widget'  => '</section>',
+		'before_title'  => '<h2 class="widget-title">',
+		'after_title'   => '</h2>',
+	) );
+
+	register_sidebar( array(
+		'name'          => __( 'Footer 1', 'zhimei' ),
+		'id'            => 'sidebar-2',
+		'description'   => __( 'Add widgets here to appear in your footer.', 'zhimei' ),
+		'before_widget' => '<section id="%1$s" class="widget %2$s">',
+		'after_widget'  => '</section>',
+		'before_title'  => '<h2 class="widget-title">',
+		'after_title'   => '</h2>',
+	) );
+
+	register_sidebar( array(
+		'name'          => __( 'Footer 2', 'zhimei' ),
+		'id'            => 'sidebar-3',
+		'description'   => __( 'Add widgets here to appear in your footer.', 'zhimei' ),
+		'before_widget' => '<section id="%1$s" class="widget %2$s">',
+		'after_widget'  => '</section>',
+		'before_title'  => '<h2 class="widget-title">',
+		'after_title'   => '</h2>',
+	) );
+}
+add_action( 'widgets_init', 'zhimei_widgets_init' );
+
 ?>

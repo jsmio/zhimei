@@ -142,6 +142,18 @@
 	</div>	  
 
 <div class="left am-u-sm-12 am-u-md-4 am-u-lg-3">
+<?php	
+	
+	if ( ! is_active_sidebar( 'sidebar-1' ) ) {
+	return;
+}
+?>
+
+<aside id="secondary" class="widget-area" role="complementary">
+	<?php dynamic_sidebar( 'sidebar-1' ); ?>
+</aside><!-- #secondary -->
+	
+	
 	
 	<section data-am-widget="accordion" class="am-accordion am-accordion-gapped am-no-layout" data-am-accordion="{  }">
 		<div class="hot-title"><i class="am-icon-thumbs-o-up"></i>热门新闻 / Hot 	News</div>

@@ -7,16 +7,13 @@
           <div class="footer_main">
             <div class="am-g">
               <div class="am-u-md-3 ">
-                <div class="footer_main--column">
-                  <strong class="footer_main--column_title">关于我们</strong>
-                  <div class="footer_about">
-                      <p class="footer_about--text">
-						无锡百发电机有限公司坐落-----------，拥有柴油发电机组现代化生产基地,占地5万多平方米，总装车间1万平方米。 二十几年来，百发专注致力于发电系统的科研、生产和服务，
-                      </p>
-                      <p class="footer_about--text">
-						提供发电系统全面解决之道，功率从8KW至4000KW，涵盖各种用途柴油、天然气发电机组，如静音型，集装箱式，拖车式，智能并联电站，高压发电机等，并拥有数十项国家专利。                      
-                      </p>
-                    </div>
+				<?php	
+					if ( ! is_active_sidebar( 'sidebar-2' ) ) {
+					return;
+				}
+				?>
+                 <div class="footer_main--column">
+					<?php dynamic_sidebar( 'sidebar-2' ); ?>
                 </div>
               </div>
 
@@ -66,6 +63,7 @@
   <script src="<?php echo get_template_directory_uri(); ?>/assets/js/jquery-2.1.0.js" charset="utf-8"></script>
   <script src="<?php echo get_template_directory_uri(); ?>/assets/js/amazeui.js" charset="utf-8"></script>
   <script src="<?php echo get_template_directory_uri(); ?>/assets/js/common.js" charset="utf-8"></script>
+  <?php wp_footer();?>
 </body>
 
 </html>

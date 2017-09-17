@@ -3,6 +3,7 @@
     <div class="layout-container">
       <div class="index-page">
 		<?php putRevSlider( 'homeslider' ); ?>         
+<!--
          <div data-am-widget="tabs" class="am-tabs am-tabs-default">
           <div class="am-tabs-bd">
             <div data-tab-panel-0 class="am-tab-panel am-active">
@@ -133,6 +134,7 @@
 
       </div>
     </div>
+-->
 
 
     <div class="section">

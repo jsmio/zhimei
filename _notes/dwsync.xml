@@ -6,7 +6,6 @@
 <file name="functions.php" server="173.230.155.87/mz.zszan.com/wp-content/themes/zhimei/" local="131478518153858379" remote="131478517800000000" Dst="0" />
 <file name="page-contact.php" server="173.230.155.87/mz.zszan.com/wp-content/themes/zhimei/" local="131483589222755515" remote="131483589000000000" Dst="0" />
 <file name="404.php" server="173.230.155.87/mz.zszan.com/wp-content/themes/zhimei/" local="131480094725655241" remote="131480094600000000" Dst="0" />
-<<<<<<< HEAD
 <file name="single-post.php" server="173.230.155.87/mz.zszan.com/wp-content/themes/zhimei/" local="131484577103161394" remote="131484576600000000" Dst="0" />
 <file name="single-post.php" server="173.230.155.87//mz.zszan.com/wp-content/themes/zhimei/" local="131484818538024933" remote="131484818400000000" Dst="0" />
 <file name="functions.php" server="173.230.155.87//mz.zszan.com/wp-content/themes/zhimei/" local="131484808704685849" remote="131484808200000000" Dst="0" />
@@ -14,10 +13,12 @@
 <file name="page-solution.php" server="173.230.155.87//mz.zszan.com/wp-content/themes/zhimei/" local="131484834976542488" remote="131484834600000000" Dst="0" />
 <file name="header.php" server="173.230.155.87//mz.zszan.com/wp-content/themes/zhimei/" local="131484827319166809" remote="131484826800000000" Dst="0" />
 <file name="single-products.php" server="173.230.155.87//mz.zszan.com/wp-content/themes/zhimei/" local="131490922315476752" remote="131490922200000000" Dst="0" />
-=======
-<file name="single-post.php" server="173.230.155.87/mz.zszan.com/wp-content/themes/zhimei/" local="131487035611573923" remote="131484818400000000" Dst="0" />
 <file name="news.php" server="173.230.155.87/mz.zszan.com/wp-content/themes/zhimei/" local="131487102274195336" remote="131487102000000000" Dst="0" />
 <file name="style.css" server="173.230.155.87/mz.zszan.com/wp-content/themes/zhimei/" local="131489851423813918" remote="131489851200000000" Dst="0" />
 <file name="single-products.php" server="173.230.155.87/mz.zszan.com/wp-content/themes/zhimei/" local="131493283083752909" remote="131493282600000000" Dst="0" />
->>>>>>> fa4a0e8b6774a37c675e0092dc872516a2bdf3be
+<file name="index.php" server="139.224.61.164/zm.996z.com/wp-content/themes/zhimei/" local="131495689047429823" remote="131494473000000000" Dst="0" />
+<file name="news.php" server="139.224.61.164/zm.996z.com/wp-content/themes/zhimei/" local="131500899890921127" remote="131500899600000000" Dst="0" />
+<file name="functions.php" server="139.224.61.164/zm.996z.com/wp-content/themes/zhimei/" local="131500901214148890" remote="131500900800000000" Dst="0" />
+<file name="footer.php" server="139.224.61.164/zm.996z.com/wp-content/themes/zhimei/" local="131500906964266569" remote="131500906800000000" Dst="0" />
+<file name="header.php" server="139.224.61.164/zm.996z.com/wp-content/themes/zhimei/" local="131500906767010476" remote="131494124400000000" Dst="0" />
 </dwsync>
